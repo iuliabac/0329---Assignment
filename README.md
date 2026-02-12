@@ -1,6 +1,7 @@
 ## Docker commit down -m --build's Data Science Report
 
 **Course:** Data Driven Decision making
+
 **Stage:** Data Science
 
 For the group assignment you submit one document covering the assignments for the iterations (three in total).
